@@ -1,1 +1,3 @@
 cd /d E:\BBQ_SITE && set GIT_PAGER=cat && git add -A && (git commit -m "Auto update %date% %time%" || echo No changes) && git pull --rebase origin main && git push origin main
+
+
